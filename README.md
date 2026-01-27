@@ -13,8 +13,19 @@ I’m **Busayo Olowookere**, a Junior Fullstack Developer passionate about backe
   **Tech:** Laravel, PHP, MySQL, HTML, CSS, JavaScript  
   **GitHub:** [Movie Review Platform](https://github.com/busayo524/laravel-movie-review)
 
-- 🏢 **Odoo HR Anonymous Messaging Module** – Customized enterprise backend module with role-based access and notifications  
-- 🔧 **Backend APIs & Learning Projects** – CRUD and API integration projects for practice and skill-building
+- 🏢 **Odoo HR Anonymous Messaging Module**
+  Developed a backend module for Odoo that allows employees to send anonymous messages to HR while maintaining privacy.  
+  **Key features:**  
+  - Role-based access control: HR users can view all messages; employees see only their own.  
+  - Integrated with Odoo notifications for real-time updates.  
+  - Debugged and extended existing enterprise codebase to implement business rules.  
+  **Tech:** Python, Odoo, PostgreSQL  
+  **GitHub:** [Odoo HR Module](https://github.com/busayo524/odoo-anonymous-hr)
+
+- 🔧 **Backend APIs & Learning Projects**  
+  Built multiple small-scale projects to practice CRUD operations, REST API development, and database integration.  
+  **Tech:** PHP (Laravel), Python (Flask), MySQL, SQLite, Git  
+  **GitHub:** [Learning Projects](https://github.com/busayo524)
 
 ### Skills & Technologies
 - **Backend:** PHP (Laravel), Python (Flask, Odoo), REST APIs  
