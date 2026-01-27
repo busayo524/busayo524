@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!-- 
 I’m **Busayo Olowookere**, a Junior Fullstack Developer passionate about backend development using **PHP (Laravel)** and **Python (Flask, Odoo)**. I enjoy building scalable web applications, maintaining real-world codebases, and continuously improving my skills.
 
 ### Featured Projects
@@ -29,5 +28,3 @@ I’m **Busayo Olowookere**, a Junior Fullstack Developer passionate about backe
 - 📫 Reach me at: olowookerebusayo66@gmail.com  
 - 😄 **Pronouns:** She/Her  
 - ⚡ **Fun fact:** I built my first AI model using TinyLLaMA and Docker  
-
--->
