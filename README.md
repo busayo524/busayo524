@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m **Busayo Olowookere**, a Fullstack Developer passionate about backend development using **node.js**, **PHP (Laravel)** and **Python (Flask, Odoo)**. I enjoy building scalable web applications, maintaining real-world codebases, and continuously improving my skills.
+I’m **Busayo Olowookere**, a Fullstack Developer passionate about backend development using **node.js**, **PHP (Laravel)** and **Python (Flask, Odoo, FastApi, Restful Api)**. I enjoy building scalable web applications, maintaining real-world codebases, and continuously improving my skills.
 
 ### Featured Projects
 - 🎧 **Podtok – PodcastHub Platform**  
@@ -28,9 +28,9 @@ I’m **Busayo Olowookere**, a Fullstack Developer passionate about backend deve
   **GitHub:** [Learning Projects](https://github.com/busayo524)
 
 ### Skills & Technologies
-- **Backend:** PHP (Laravel), Python (Flask, Odoo), REST APIs  
+- **Backend:** PHP (Laravel), Python (Flask, Odoo), REST APIs, FAST APIs
 - **Frontend:** HTML, CSS, JavaScript  
-- **Databases:** MySQL, SQLite  
+- **Databases:** MySQL, SQLite Postgresql 
 - **Tools:** Git, Docker  
 
 ### Currently
